@@ -65,12 +65,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shamita121004&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/shamita121004/shamita121004/output/snake.svg" alt="Snake animation" />
-
-###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamita121004&show_icons=true&locale=en" alt="shamita121004" /></p>
