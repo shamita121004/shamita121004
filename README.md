@@ -3,12 +3,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=shamita121004.shamita121004&"  />
-</div>
-
-###
-
 <h1 align="center">Hey there 👋</h1>
 
 ###
@@ -61,8 +55,23 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=shamita121004.shamita121004&"  />
+</div>
+
+###
+
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shamita121004&show_icons=true&locale=en" alt="shamita121004" /></p>
+
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/shamita121004/count.svg?"  />
+</div>
+
+###
